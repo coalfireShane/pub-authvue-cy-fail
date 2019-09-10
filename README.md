@@ -2,28 +2,13 @@
 
 ## Project setup
 ```
-yarn install
-```
+fork, clone repo locally
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+amplify init
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+amplify push
 
-### Run your tests
-```
-yarn run test
-```
+commit & push resulting changes to remote repo
 
-### Lints and fixes files
+connect repo to Amplify Console
 ```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
